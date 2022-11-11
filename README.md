@@ -1,4 +1,4 @@
-<h1>Host Blazor WebAssembly .NET 7 with GitHub Actions</h1>
+<h1>Host Blazor WebAssembly .NET 7 Website with GitHub Actions</h1>
 
 <h2><a href="https://github.com/nakigoe/yml/blob/main/dotnet.yml" target="_blank">Download the YAML (.yml) file</a></h2>
 
