@@ -3,6 +3,11 @@
 <h2><a href="https://github.com/nakigoe/yml/blob/main/dotnet.yml" target="_blank">Download the YAML (.yml) file</a></h2>
 
 GitHub Actions file (YAML) to run Blazor WebAssembly website from GitHub pages and any other static websites hosting provider.
+
+<b>Make sure to change the `your_awesome_project_name.csproj` to your actual project name!!!</b>
+
+Also, if You have a custom domain for your website, uncomment the line `# nakigoe.org` and change `nakigoe.org` to Your actual website name!!!
+<br>
 <br>
 <br>
 <hr>
