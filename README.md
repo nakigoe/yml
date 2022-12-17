@@ -6,7 +6,13 @@ GitHub Actions file (YAML) to run Blazor WebAssembly website from GitHub pages a
 
 <b>Make sure to change the `your_awesome_project_name_from_the_root_folder_comes_here.csproj` to your actual project name!!!</b>
 
-Also, if You have a custom domain for your website, uncomment the line `# nakigoe.org` and change `nakigoe.org` to Your actual website name!!!
+Also, if You have a custom domain for your website, uncomment the line `# nakigoe.org` and change `nakigoe.org` to Your actual website name!
+
+<h2>Is your branch master or main?</h2>
+As for October 2020 the default GitHub branch has been renamed from master to main (source)
+
+So if you are copypasting actions from elsewhere, make sure that you are targeting the correct branch (for new repos this means most of the time to replace master with  main in the `dotnet.yml` workflow file.
+
 <br>
 <br>
 <br>
